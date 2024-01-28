@@ -7,4 +7,8 @@
 
 **Task description:**
 
-The given array of arr objects. Check if at least one country key has the value 'Cuba' using the some() Array's Method. Output the result to the console.
+- The given array of arr objects.
+
+- Check if at least one country key has the value 'Cuba' using the some() Array's Method.
+
+- Output the result to the console.
