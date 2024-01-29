@@ -4,6 +4,6 @@ let arr = [
   { name: 'Miguel', country: 'Cuba' }
 ];
 
-const hasCuba = arr.some(({ country }) => country === 'Cuba');
+const containsCuba = arr.some(({ country }) => country === 'Cuba');
 
-console.log('Does at least one country key have the value "Cuba"?', hasCuba);
+console.log('Does at least one country key have the value "Cuba"?', containsCuba);
