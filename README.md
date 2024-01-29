@@ -3,7 +3,7 @@
 ### ECMAScript 6 (ES6+). The JavaScript Array Object. The Arrays of methods. The some() Array's Method. Destructuring assignment
 ***
 
-### Testing whether at least one Element of the Array passes the Test
+### Testing whether at least one of the Array elements of the Array pass the Test
 
 **Task description:**
 
